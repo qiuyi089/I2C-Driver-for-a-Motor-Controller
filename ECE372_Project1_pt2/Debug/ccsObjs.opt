@@ -1,0 +1,1 @@
+"./main.o" "./startup_ARMCA8.o" -Wl,-T"../AM335x.lds" 
